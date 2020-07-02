@@ -1,0 +1,7 @@
+{
+  "name": "travelClip",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
